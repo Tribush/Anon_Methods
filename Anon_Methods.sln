@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anon_Methods", "Anon_Methods.csproj", "{4D6CF843-2823-4DAF-A57D-8762F20BFCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anon_Method1", "..\Anon_Method1\Anon_Method1.csproj", "{12788D7B-7FB0-4646-9031-B772FAB09399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D6CF843-2823-4DAF-A57D-8762F20BFCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6CF843-2823-4DAF-A57D-8762F20BFCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6CF843-2823-4DAF-A57D-8762F20BFCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6CF843-2823-4DAF-A57D-8762F20BFCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12788D7B-7FB0-4646-9031-B772FAB09399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12788D7B-7FB0-4646-9031-B772FAB09399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12788D7B-7FB0-4646-9031-B772FAB09399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12788D7B-7FB0-4646-9031-B772FAB09399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5CA05FF-AFC1-4AAD-B318-0478A20A8973}
+	EndGlobalSection
+EndGlobal
